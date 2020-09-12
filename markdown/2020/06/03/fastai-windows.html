@@ -2,9 +2,10 @@
 <html lang="en"><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="twitter:card" content="summary_large_image" /><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Installing the Fastai library on Windows 10 | Gagan Sharma’s Blog</title>
-<meta name="generator" content="Jekyll v4.0.0" />
+<meta name="generator" content="Jekyll v4.1.1" />
 <meta property="og:title" content="Installing the Fastai library on Windows 10" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Installing the Fastai library (developmental version 2) on Windows 10" />
@@ -15,30 +16,14 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-06-03T00:00:00-05:00" />
 <script type="application/ld+json">
-{"headline":"Installing the Fastai library on Windows 10","dateModified":"2020-06-03T00:00:00-05:00","description":"Installing the Fastai library (developmental version 2) on Windows 10","datePublished":"2020-06-03T00:00:00-05:00","@type":"BlogPosting","url":"https://thepurplingpoet.github.io/blog/markdown/2020/06/03/fastai-windows.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://thepurplingpoet.github.io/blog/markdown/2020/06/03/fastai-windows.html"},"@context":"https://schema.org"}</script>
+{"url":"https://thepurplingpoet.github.io/blog/markdown/2020/06/03/fastai-windows.html","headline":"Installing the Fastai library on Windows 10","dateModified":"2020-06-03T00:00:00-05:00","datePublished":"2020-06-03T00:00:00-05:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://thepurplingpoet.github.io/blog/markdown/2020/06/03/fastai-windows.html"},"description":"Installing the Fastai library (developmental version 2) on Windows 10","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://thepurplingpoet.github.io/blog/feed.xml" title="Gagan Sharma's Blog" /><link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Installing the Fastai library on Windows 10 | Gagan Sharma’s Blog</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Installing the Fastai library on Windows 10" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Installing the Fastai library (developmental version 2) on Windows 10" />
-<meta property="og:description" content="Installing the Fastai library (developmental version 2) on Windows 10" />
-<link rel="canonical" href="https://thepurplingpoet.github.io/blog/markdown/2020/06/03/fastai-windows.html" />
-<meta property="og:url" content="https://thepurplingpoet.github.io/blog/markdown/2020/06/03/fastai-windows.html" />
-<meta property="og:site_name" content="Gagan Sharma’s Blog" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2020-06-03T00:00:00-05:00" />
-<script type="application/ld+json">
-{"headline":"Installing the Fastai library on Windows 10","dateModified":"2020-06-03T00:00:00-05:00","description":"Installing the Fastai library (developmental version 2) on Windows 10","datePublished":"2020-06-03T00:00:00-05:00","@type":"BlogPosting","url":"https://thepurplingpoet.github.io/blog/markdown/2020/06/03/fastai-windows.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://thepurplingpoet.github.io/blog/markdown/2020/06/03/fastai-windows.html"},"@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-<link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
-<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css"><link type="application/atom+xml" rel="alternate" href="https://thepurplingpoet.github.io/blog/feed.xml" title="Gagan Sharma's Blog" />
+<link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://thepurplingpoet.github.io/blog/feed.xml" title="Gagan Sharma's Blog" /><link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
-    <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"></script>
     <script>
     document.addEventListener("DOMContentLoaded", function() {
         renderMathInElement( document.body, {
@@ -57,7 +42,7 @@ function wrap_img(fn) {
     if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
         var elements = document.querySelectorAll(".post img");
         Array.prototype.forEach.call(elements, function(el, i) {
-            if (el.getAttribute("title")) {
+            if (el.getAttribute("title") && (el.className != "emoji")) {
                 const caption = document.createElement('figcaption');
                 var node = document.createTextNode(el.getAttribute("title"));
                 caption.appendChild(node);
@@ -81,7 +66,8 @@ window.onload = wrap_img;
     elem.forEach(e => (e.innerHTML = '<i class="fas fa-link fa-xs"></i>'));
     });
 </script>
-</head><body><header class="site-header">
+</head>
+<body><header class="site-header">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/blog/">Gagan Sharma&#39;s Blog</a><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -139,7 +125,7 @@ window.onload = wrap_img;
 
 <h3 id="use-the-instructions-at-httpsdevfastai-to-install-an-editable-version">
 <a class="anchor" href="#use-the-instructions-at-httpsdevfastai-to-install-an-editable-version" aria-hidden="true"><span class="octicon octicon-link"></span></a>Use the instructions at https://dev.fast.ai/ to install an editable version</h3>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/fastai/fastai2
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/fastai/fastai2
 cd fastai2
 conda env create -f environment.yml
 source activate fastai2
@@ -153,7 +139,7 @@ pip install -e ".[dev]"
 
 <h3 id="heres-what-i-tried-after-installing">
 <a class="anchor" href="#heres-what-i-tried-after-installing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Here’s what I tried after installing:</h3>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from fastai2.vision.all import *
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from fastai2.vision.all import *
 path = untar_data(URLs.PETS)/'images'
 
 def is_cat(x): return x[0].isupper()
@@ -173,9 +159,9 @@ learn.fine_tune(1)
 <a class="anchor" href="#things-to-note" aria-hidden="true"><span class="octicon octicon-link"></span></a>Things to Note</h3>
 
 <ul>
-  <li>If you see a <code class="highlighter-rouge">CUDA Runtime Error</code>, set the  <code class="highlighter-rouge">num_workers = 0</code> in the dataloader function.</li>
-  <li>For <code class="highlighter-rouge">OSError: Image file is truncated</code> , use this piece of code
-    <div class="highlighter-rouge">
+  <li>If you see a <code class="language-plaintext highlighter-rouge">CUDA Runtime Error</code>, set the  <code class="language-plaintext highlighter-rouge">num_workers = 0</code> in the dataloader function.</li>
+  <li>For <code class="language-plaintext highlighter-rouge">OSError: Image file is truncated</code> , use this piece of code
+    <div class="language-plaintext highlighter-rouge">
 <div class="highlight"><pre class="highlight"><code>from PIL import ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 </code></pre></div>    </div>
