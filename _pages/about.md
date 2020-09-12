@@ -4,8 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Hi!! I am Gagan. I love technology, math and art. I hope you enjoy what you read on this site. Thanks for tuning in. Have a great day!!
