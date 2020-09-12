@@ -23,7 +23,7 @@ Whenever faced with a dilemma regarding choices, matrix-models can be quite help
 - Radical Candor Matrix for offering feedback:
   ![]({{ site.baseurl }}/images/Radical-Candor.png)
   
-  img source: [image source](https://managementforstartups.com/articles/book-summary-radical-candor/)
+  [image source](https://managementforstartups.com/articles/book-summary-radical-candor/)
 
 
 ### Biases
