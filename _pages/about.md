@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, I am a software engineer with more than 3 years of professional experience in developing full-stack enterprise applications. 
+This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
-I can be stalked on [Twitter](https://twitter.com/thepurplingpoet/), [LinkedIn](https://www.linkedin.com/in/gagan-sharma-309b2071/) and of course, [Github](https://github.com/thepurplingpoet)
+
+
+[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
