@@ -14,12 +14,12 @@ I have tried to document a few actionable insights that I gained from the book. 
 Whenever faced with a dilemma regarding choices, matrix-models can be quite helpful.  As in a mathematical matrix, we create a box-like structure and evaluate our choices based on the options. We could have cost vs benefit or pros vs cons when choosing between choices. Some prominent matrix models discussed in the book are:
 Eisenhower Decision Matrix:
 ![]({{ site.baseurl }}/images/Eisenhower-Decision.png)
-
+(img source: https://study.com/academy/lesson/practical-application-eisenhower-decision-matrix-infographic.html)
 The Consequence-Conviction Matrix:
 ![]({{ site.baseurl }}/images/Consequence-Conviction.png)
-
+(img source: http://thinkapps.com/blog/entrepreneurship/how-start-startup-operation-rabois/)
 Radical Candor Matrix for offering feedback:
-
+(img source: https://managementforstartups.com/articles/book-summary-radical-candor/)
 ![]({{ site.baseurl }}/images/Radical-Candor.png)
 
 ### Biases
