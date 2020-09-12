@@ -6,7 +6,7 @@ categories: [markdown]
 title: Super Thinking
 ---
 
-Super Thinking is one of the best books I have read recently. It acts as a compendium of multiple tools and techniques that can help in exapanding one's thinking capabilities.
+[Super Thinking](https://www.amazon.in/Superthinking-Upgrade-Reasoning-Better-Decisions/dp/024133635X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1599913869&sr=8-3) is one of the best books I have read recently. It acts as a compendium of multiple tools and techniques that can help in exapanding one's thinking capabilities.
 The book is written by Lauren McCann , a statistician and researcher with numerous medical publications to her name. Her co-author Gabriel Weinberg is the CEO of the internet search company DuckDuckGo, which is a privacy focused browser(it does not track you like google).
 ## Essence of the book
 I have tried to document a few actionable insights that I gained from the book. Please note that these are my own thoughts and ideas that were influenced by the book or pre-existing ideas that were refined.
