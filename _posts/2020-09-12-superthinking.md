@@ -12,15 +12,19 @@ The book is written by Lauren McCann , a statistician and researcher with numero
 I have tried to document a few actionable insights that I gained from the book. Please note that these are my own thoughts and ideas that were influenced by the book or pre-existing ideas that were refined.
 ### Matrix-Models for decisions
 Whenever faced with a dilemma regarding choices, matrix-models can be quite helpful.  As in a mathematical matrix, we create a box-like structure and evaluate our choices based on the options. We could have cost vs benefit or pros vs cons when choosing between choices. Some prominent matrix models discussed in the book are:
-Eisenhower Decision Matrix:
-![]({{ site.baseurl }}/images/Eisenhower-Decision.png)
-(img source: https://study.com/academy/lesson/practical-application-eisenhower-decision-matrix-infographic.html)
-The Consequence-Conviction Matrix:
-![]({{ site.baseurl }}/images/Consequence-Conviction.png)
-(img source: http://thinkapps.com/blog/entrepreneurship/how-start-startup-operation-rabois/)
-Radical Candor Matrix for offering feedback:
-(img source: https://managementforstartups.com/articles/book-summary-radical-candor/)
-![]({{ site.baseurl }}/images/Radical-Candor.png)
+- Eisenhower Decision Matrix:
+  ![]({{ site.baseurl }}/images/Eisenhower-Decision.png)
+
+  [image source](https://study.com/academy/lesson/practical-application-eisenhower-decision-matrix-infographic.html)
+- The Consequence-Conviction Matrix:
+  ![]({{ site.baseurl }}/images/Consequence-Conviction.png)
+  
+  [image source](http://thinkapps.com/blog/entrepreneurship/how-start-startup-operation-rabois/)
+- Radical Candor Matrix for offering feedback:
+  ![]({{ site.baseurl }}/images/Radical-Candor.png)
+  
+  img source: [image source](https://managementforstartups.com/articles/book-summary-radical-candor/)
+
 
 ### Biases
 Humans unconsciously have a lot of biases. For example, people might wrongly assume that flights are not safe compared to car rides. However, statistically, car accidents occur lot more often than airplane crashes. But the media focus on the gory details of a crash more than the banal accident on the highway. And that affects our thinking. Always look out for the facts behind an opinion. And be ready to change opinions when presented with counterfactual evidence. Although this might be difficult when we're all a part of echo chambers on social media, I'd like to stress that verifying and cross-checking "facts" is one great way to steer clear fromt he negative effects of biases. Most often, there is no black-and-white and the answer lies in a gray area. Also, correlation may not imply causation. So always be on the lookout for a "third variable".
