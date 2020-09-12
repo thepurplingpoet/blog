@@ -13,7 +13,7 @@ I have tried to document a few actionable insights that I gained from the book. 
 ### Matrix-Models for decisions
 Whenever faced with a dilemma regarding choices, matrix-models can be quite helpful.  As in a mathematical matrix, we create a box-like structure and evaluate our choices based on the options. We could have cost vs benefit or pros vs cons when choosing between choices. Some prominent matrix models discussed in the book are:
 Eisenhower Decision Matrix:
-![](images/Eisenhower-Decision.png)
+![](https://github.com/thepurplingpoet/blog/blob/master/images/Eisenhower-Decision.png)
 
 The Consequence-Conviction Matrix:
 ![](images/Consequence-Conviction.png)
