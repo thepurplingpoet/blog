@@ -13,14 +13,14 @@ I have tried to document a few actionable insights that I gained from the book. 
 ### Matrix-Models for decisions
 Whenever faced with a dilemma regarding choices, matrix-models can be quite helpful.  As in a mathematical matrix, we create a box-like structure and evaluate our choices based on the options. We could have cost vs benefit or pros vs cons when choosing between choices. Some prominent matrix models discussed in the book are:
 Eisenhower Decision Matrix:
-![](https://github.com/thepurplingpoet/blog/blob/master/images/Eisenhower-Decision.png)
+![]({{ site.baseurl }}/images/Eisenhower-Decision.png)
 
 The Consequence-Conviction Matrix:
-![](/images/Consequence-Conviction.png)
+![]({{ site.baseurl }}/images/Consequence-Conviction.png)
 
 Radical Candor Matrix for offering feedback:
 
-![](/images/Radical-Candor.png)
+![]({{ site.baseurl }}/images/Radical-Candor.png)
 
 ### Biases
 Humans unconsciously have a lot of biases. For example, people might wrongly assume that flights are not safe compared to car rides. However, statistically, car accidents occur lot more often than airplane crashes. But the media focus on the gory details of a crash more than the banal accident on the highway. And that affects our thinking. Always look out for the facts behind an opinion. And be ready to change opinions when presented with counterfactual evidence. Although this might be difficult when we're all a part of echo chambers on social media, I'd like to stress that verifying and cross-checking "facts" is one great way to steer clear fromt he negative effects of biases. Most often, there is no black-and-white and the answer lies in a gray area. Also, correlation may not imply causation. So always be on the lookout for a "third variable".
