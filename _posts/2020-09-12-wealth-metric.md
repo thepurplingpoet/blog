@@ -1,5 +1,5 @@
 ---
-toc: true
+toc: false
 layout: post
 description: How wealthy, rich and successful are you?
 categories: [markdown]
